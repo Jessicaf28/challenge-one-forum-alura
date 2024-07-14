@@ -1,10 +1,10 @@
-package com.br.alura.forum;
+package com.api.forumweb.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ForumApplicationTests {
+class ForumWebApplicationTests {
 
 	@Test
 	void contextLoads() {
